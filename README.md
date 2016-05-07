@@ -19,7 +19,7 @@ npm install
 meteor
 ```
 
-### Scripts
+### Scripts Updated
 
 To lint:
 
